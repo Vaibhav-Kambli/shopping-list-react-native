@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 Make sure to download Expo CLI on your machine globally before installing the app
 
-## Creaing APK of app
+## Creating APK of the App
 
 Run the following command to generate apk of the app (Expo account required)
 
